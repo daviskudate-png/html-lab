@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.black {
+   height: 100vh; 
+   display: flex;
+   align-items: center;
+   margin: 0%;
+}
+#pink {
+    border: 2px solid black;
+    border-left: 70%;
+    width: 450px;
+    
+
+
+#pink {
+    width: fit-content;
+    height: 500px;
+    object-fit: cover;
+    margin: 100
+    px
+
+    
+}
+button{
+    padding:10;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    background-color: yellow;
+    
+
+
+
+
